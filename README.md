@@ -8,7 +8,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://typescriptlang.org)
 [![Supabase](https://img.shields.io/badge/Supabase-Auth%20%2B%20DB-green?style=flat-square&logo=supabase)](https://supabase.com)
 [![Claude AI](https://img.shields.io/badge/Claude-Opus%204.5-orange?style=flat-square)](https://anthropic.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -406,15 +405,3 @@ StyleAI uses a custom premium dark design system defined in `app/globals.css`.
 - [ ] Seasonal wardrobe rotation suggestions
 
 ---
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-
-Built with ❤️ using **Next.js**, **Claude AI**, and **Supabase**
-
-</div>
